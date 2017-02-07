@@ -7,4 +7,16 @@ Caranya:<br>
 4. # ./debian7-32.sh <br>
 5. tunggu sampai proses selesai > reboot vps anda<br>
 <br>
+# Service
+
+OpenVPN  : TCP 1194 <br>
+OpenSSH  : 22, 143<br>
+Dropbear : 109, 110, 443<br>
+Squid3   : 8080 (limit to IP SSH)<br>
+badvpn   : badvpn-udpgw port 7300 <br>
+Webmin <br>
+VNSTAT <br>
+MRTG <br>
+more cek log install <br>
+<br>
 @sonedinjector
