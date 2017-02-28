@@ -29,6 +29,15 @@ Caranya:<br>
 4. # ./ocs-deb7-32.sh<br>
 5. Ikuti proses sampai selesai <br>
 
+# Simple Web SSH dan VPN
+Melakukan Konfigurasi Web SSH dan VPN Secara otomatis.<br>
+Caranya:<br>
+1. Login VPS<br>
+2. # wget https://raw.githubusercontent.com/rizal180499/Auto-Installer-VPS/master/simplewebssh/simplewebssh.sh <br>
+3. # chmod +x simplewebssh.sh <br>
+4. # ./simplewebssh.sh<br>
+5. Ikuti proses sampai selesai <br>
+
 More Info Cek Blog : www.mastahit.com
 
 @sonedinjector
