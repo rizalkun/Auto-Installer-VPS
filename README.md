@@ -1,4 +1,5 @@
 # Info
+Wajib OS Debian 7 32 bit
 Pastikan sebelum install server kondisi fresh belum terinstall apa-apa. <br>
 # Auto-Installer-VPS
 Melakukan install service seperti SSH,VPN,Dropbear dll dengan script auto installer yang sangat mudah.<br>
