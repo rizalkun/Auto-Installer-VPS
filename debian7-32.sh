@@ -62,6 +62,7 @@ cd /usr/bin
 mv screenfetch-dev screenfetch
 chmod +x /usr/bin/screenfetch
 chmod 755 screenfetch
+cd
 echo "clear" >> .bash_profile
 echo "screenfetch" >> .bash_profile
 #wget -O screenfetch-dev "https://raw.githubusercontent.com/rizal180499/Auto-Installer-VPS/master/conf/screenfetch-dev"
