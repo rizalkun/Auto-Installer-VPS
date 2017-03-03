@@ -51,12 +51,24 @@ service vnstat restart
 
 # install screenfetch
 cd
-touch screenfetch-dev
-wget -O screenfetch-dev "https://raw.githubusercontent.com/rizal180499/Auto-Installer-VPS/master/conf/screenfetch-dev"
-mv screenfetch-dev /usr/bin/screenfetch
+
+#touch screenfetch-dev
+cd
+wget https://github.com/KittyKatt/screenFetch/archive/master.zip
+apt-get install -y unzip
+unzip master.zip
+mv screenFetch-master/screenfetch-dev /usr/bin
+cd /usr/bin
+mv screenfetch-dev screenfetch
 chmod +x /usr/bin/screenfetch
-echo "clear" >> .profile
-echo "screenfetch" >> .profile
+chmod 755 screenfetch
+echo "clear" >> .bash_profile
+echo "screenfetch" >> .bash_profile
+#wget -O screenfetch-dev "https://raw.githubusercontent.com/rizal180499/Auto-Installer-VPS/master/conf/screenfetch-dev"
+#mv screenfetch-dev /usr/bin/screenfetch
+#chmod +x /usr/bin/screenfetch
+#echo "clear" >> .profile
+#echo "screenfetch" >> .profile
 
 # install webserver
 cd
