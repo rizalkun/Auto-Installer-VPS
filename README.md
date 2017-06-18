@@ -20,6 +20,8 @@ badvpn   : badvpn-udpgw port 7300 <br>
 Webmin <br>
 VNSTAT <br>
 MRTG <br>
+Drop torrent<br>
+DDOS flate<br>
 more cek log install <br>
 <br>
 # OCS PANEL
