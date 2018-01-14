@@ -5,8 +5,8 @@
 #               for Debian / ubuntu                           #
 # Version:      1.1                                           #
 # Data:         14/01/2018                                    #
-# Author:       Rzengineer									  #
-# Modified:		Rzengineer                                    #
+# Author:       Rzengineer				      #
+# Modified:	Rzengineer                            	      #
 # Author URI:   https://github.com/rzengineer                 #
 # License:      GNU General Public License, version 3 (GPLv3) #
 # License URI:  http://www.gnu.org/licenses/gpl-3.0.html      #
