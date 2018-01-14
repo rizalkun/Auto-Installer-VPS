@@ -42,6 +42,16 @@ Caranya:<br>
 4. # ./simplewebssh.sh<br>
 5. Ikuti proses sampai selesai <br>
 
+# New Updated
+# Stunnel
+Konfigurasi stunnel secara otomatis.<br>
+Caranya:<br>
+1. LoginVPS<br>
+2. # wget https://raw.githubusercontent.com/rzengineer/Auto-Installer-VPS/master/deb7-stunnel.sh <br>
+3. # chmod +x deb7-stunnel.sh <br>
+4. # ./deb7-stunnel.sh
+5. Ikuti proses sampai selesai <br>
+
 More Info Cek Blog : www.mastahit.com
 
 @sonedinjector
